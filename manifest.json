@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "LinkCentral",
+    "description": "Quick access to all your accounts in one click!",
+    "version": "1.0.0",
+    "icons": {
+      "128": "images/128.png",
+      "64": "images/64.png",
+      "48": "images/48.png",
+      "32": "images/32.png",
+      "16": "images/16.png"
+    },
+    "action": {
+      "default_icon": "images/128.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage",
+      "tabs"
+    ]
+  }
+  
